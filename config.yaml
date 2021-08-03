@@ -1,0 +1,4 @@
+prod_env:
+  excelfile_dir: "ISO-DATE Pairs.xlsx"
+  output_dir: output/
+  logfile_dir: "log files/"
